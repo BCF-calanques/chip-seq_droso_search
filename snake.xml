@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE eSummaryResult PUBLIC "-//NLM//DTD esummary v1 20041029//EN" "https://eutils.ncbi.nlm.nih.gov/eutils/dtd/20041029/esummary-v1.dtd">
+<eSummaryResult>
+<DocSum>
+	<Id>200097956</Id>
+	<Item Name="Accession" Type="String">GSE97956</Item>
+	<Item Name="GDS" Type="String"></Item>
+	<Item Name="title" Type="String">Hormone-dependent control of developmental timing through regulation of chromatin accessibility</Item>
+	<Item Name="summary" Type="String">We identify a temporal cascade of ecdysone-inducible transcription factor gene expression during Drosophila wing development. This temporal cascade corresponds with dynamic changes in chromatin accesibility during wing development. We hypothesized that these temporally regulated transcription factors may coordinate these dynamic open chromatin changes. To test this, we investigate the ecdysone-inducible transcription factor, E93, which we determine is required for coordinating transitions in developmental stage by regulating chromatin accesibility of cis-regulatory elements.</Item>
+	<Item Name="GPL" Type="String">9061;17275</Item>
+	<Item Name="GSE" Type="String">97956</Item>
+	<Item Name="taxon" Type="String">Drosophila melanogaster</Item>
+	<Item Name="entryType" Type="String">GSE</Item>
+	<Item Name="gdsType" Type="String">Genome binding/occupancy profiling by high throughput sequencing; Expression profiling by high throughput sequencing</Item>
+	<Item Name="ptechType" Type="String"></Item>
+	<Item Name="valType" Type="String"></Item>
+	<Item Name="SSInfo" Type="String"></Item>
+	<Item Name="subsetInfo" Type="String"></Item>
+	<Item Name="PDAT" Type="String">2017/06/06</Item>
+	<Item Name="suppFile" Type="String">BED, BW, TXT, XLSX</Item>
+	<Item Name="Samples" Type="List">
+		<Item Name="Sample" Type="Structure">
+			<Item Name="Accession" Type="String">GSM2583759</Item>
+			<Item Name="Title" Type="String">WT-24hAPF-RNA-Rep2</Item>
+		</Item>
+		<Item Name="Sample" Type="Structure">
+			<Item Name="Accession" Type="String">GSM2583765</Item>
+			<Item Name="Title" Type="String">E93-24hAPF-FAIRE-Rep2</Item>
+		</Item>
+		<Item Name="Sample" Type="Structure">
+			<Item Name="Accession" Type="String">GSM2583762</Item>
+			<Item Name="Title" Type="String">E93-3LW-FAIRE-Rep1</Item>
+		</Item>
+		<Item Name="Sample" Type="Structure">
+			<Item Name="Accession" Type="String">GSM2583768</Item>
+			<Item Name="Title" Type="String">E93-mimic-ChIP-Rep1</Item>
+		</Item>
+		<Item Name="Sample" Type="Structure">
+			<Item Name="Accession" Type="String">GSM2583751</Item>
+			<Item Name="Title" Type="String">WT-24hAPF-FAIRE-Rep2</Item>
+		</Item>
+		<Item Name="Sample" Type="Structure">
+			<Item Name="Accession" Type="String">GSM2583748</Item>
+			<Item Name="Title" Type="String">WT-3LW-FAIRE-Rep2</Item>
+		</Item>
+		<Item Name="Sample" Type="Structure">
+			<Item Name="Accession" Type="String">GSM2583752</Item>
+			<Item Name="Title" Type="String">WT-24hAPF-FAIRE-Rep3</Item>
+		</Item>
+		<Item Name="Sample" Type="Structure">
+			<Item Name="Accession" Type="String">GSM2583754</Item>
+			<Item Name="Title" Type="String">WT-44hAPF-FAIRE-Rep2</Item>
+		</Item>
+		<Item Name="Sample" Type="Structure">
+			<Item Name="Accession" Type="String">GSM2583749</Item>
+			<Item Name="Title" Type="String">WT-3LW-FAIRE-Rep3</Item>
+		</Item>
+		<Item Name="Sample" Type="Structure">
+			<Item Name="Accession" Type="String">GSM2583760</Item>
+			<Item Name="Title" Type="String">WT-44hAPF-RNA-Rep1</Item>
+		</Item>
+		<Item Name="Sample" Type="Structure">
+			<Item Name="Accession" Type="String">GSM2583757</Item>
+			<Item Name="Title" Type="String">WT-3LW-RNA-Rep2</Item>
+		</Item>
+		<Item Name="Sample" Type="Structure">
+			<Item Name="Accession" Type="String">GSM2583769</Item>
+			<Item Name="Title" Type="String">E93-mimic-ChIP-Rep2</Item>
+		</Item>
+		<Item Name="Sample" Type="Structure">
+			<Item Name="Accession" Type="String">GSM2583766</Item>
+			<Item Name="Title" Type="String">E93-44hAPF-FAIRE-Rep1</Item>
+		</Item>
+		<Item Name="Sample" Type="Structure">
+			<Item Name="Accession" Type="String">GSM2583763</Item>
+			<Item Name="Title" Type="String">E93-3LW-FAIRE-Rep2</Item>
+		</Item>
+		<Item Name="Sample" Type="Structure">
+			<Item Name="Accession" Type="String">GSM2583750</Item>
+			<Item Name="Title" Type="String">WT-24hAPF-FAIRE-Rep1</Item>
+		</Item>
+		<Item Name="Sample" Type="Structure">
+			<Item Name="Accession" Type="String">GSM2583755</Item>
+			<Item Name="Title" Type="String">WT-44hAPF-FAIRE-Rep3</Item>
+		</Item>
+		<Item Name="Sample" Type="Structure">
+			<Item Name="Accession" Type="String">GSM2583747</Item>
+			<Item Name="Title" Type="String">WT-3LW-FAIRE-Rep1</Item>
+		</Item>
+		<Item Name="Sample" Type="Structure">
+			<Item Name="Accession" Type="String">GSM2583756</Item>
+			<Item Name="Title" Type="String">WT-3LW-RNA-Rep1</Item>
+		</Item>
+		<Item Name="Sample" Type="Structure">
+			<Item Name="Accession" Type="String">GSM2583753</Item>
+			<Item Name="Title" Type="String">WT-44hAPF-FAIRE-Rep1</Item>
+		</Item>
+		<Item Name="Sample" Type="Structure">
+			<Item Name="Accession" Type="String">GSM2583770</Item>
+			<Item Name="Title" Type="String">genomic_input_OregonR</Item>
+		</Item>
+		<Item Name="Sample" Type="Structure">
+			<Item Name="Accession" Type="String">GSM2583767</Item>
+			<Item Name="Title" Type="String">E93-44hAPF-FAIRE-Rep2</Item>
+		</Item>
+		<Item Name="Sample" Type="Structure">
+			<Item Name="Accession" Type="String">GSM2583761</Item>
+			<Item Name="Title" Type="String">WT-44hAPF-RNA-Rep2</Item>
+		</Item>
+		<Item Name="Sample" Type="Structure">
+			<Item Name="Accession" Type="String">GSM2583758</Item>
+			<Item Name="Title" Type="String">WT-24hAPF-RNA-Rep1</Item>
+		</Item>
+		<Item Name="Sample" Type="Structure">
+			<Item Name="Accession" Type="String">GSM2583764</Item>
+			<Item Name="Title" Type="String">E93-24hAPF-FAIRE-Rep1</Item>
+		</Item>
+	</Item>
+	<Item Name="Relations" Type="List"></Item>
+	<Item Name="ExtRelations" Type="List">
+		<Item Name="ExtRelation" Type="Structure">
+			<Item Name="RelationType" Type="String">SRA</Item>
+			<Item Name="TargetObject" Type="String">SRP104244</Item>
+			<Item Name="TargetFTPLink" Type="String">ftp://ftp-trace.ncbi.nlm.nih.gov/sra/sra-instant/reads/ByStudy/sra/SRP/SRP104/SRP104244/</Item>
+		</Item>
+	</Item>
+	<Item Name="n_samples" Type="Integer">24</Item>
+	<Item Name="SeriesTitle" Type="String"></Item>
+	<Item Name="PlatformTitle" Type="String"></Item>
+	<Item Name="PlatformTaxa" Type="String"></Item>
+	<Item Name="SamplesTaxa" Type="String"></Item>
+	<Item Name="PubMedIds" Type="List">
+		<Item Name="int" Type="Integer">28536147</Item>
+	</Item>
+	<Item Name="Projects" Type="List"></Item>
+	<Item Name="FTPLink" Type="String">ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE97nnn/GSE97956/</Item>
+	<Item Name="GEO2R" Type="String">no</Item>
+</DocSum>
+
+</eSummaryResult>
